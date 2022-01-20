@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    background: slateblue;
+    padding: 20px; 
+    width: 220px;
+    height: 150px;  
+  }
+  
+  #RightNav {
+    border: solid 8px black;
+       width: 400px;
+       margin-left: auto;
+       margin-right: auto;
+       margin-bottom: 10px;
+       float:right;
+       text-align: center;
+       padding-bottom: 8px;
+       background-color: #8E41D5;
+}
